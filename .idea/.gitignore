@@ -9,3 +9,5 @@
 /codeStyles/Project.xml
 /inspectionProfiles/Project_Default.xml
 /vcs.xml
+/jsLinters/eslint.xml
+/prettier.xml
